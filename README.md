@@ -27,16 +27,6 @@ Actualmente profundizando mis conocimientos en **Componentes Inteligentes** para
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-Aquí puedes ver un resumen de mi actividad y los lenguajes que más utilizo en mis proyectos:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduin-M&show_icons=true&theme=visualstudio&count_private=true" alt="Estadísticas de Eduin-M" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduin-M&layout=compact&theme=visualstudio&hide=html,css" alt="Lenguajes más usados" />
-</p>
-
----
 
 <p align="center">
   <i>"El código es poesía en movimiento."</i>
