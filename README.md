@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Eduin
 
-### 🎓 Estudiante de Ingeniería en Informática
+### 🎓 TSU en Informática & Estudiante de Ingeniería
 Apasionado por la resolución de problemas y la creación de soluciones tecnológicas eficientes. Actualmente enfocado en el desarrollo de software y la exploración de nuevas tecnologías.
 
 ---
@@ -20,14 +20,12 @@ Apasionado por la resolución de problemas y la creación de soluciones tecnoló
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 
+**Bases de Datos**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ### 🧠 Aprendizaje Actual
 Actualmente profundizando mis conocimientos en **Componentes Inteligentes** para integrarlos en futuros desarrollos.
 
----
 
-
-<p align="center">
-  <i>"El código es poesía en movimiento."</i>
-</p>
